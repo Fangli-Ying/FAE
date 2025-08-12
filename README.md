@@ -1,5 +1,5 @@
 # Project Page for our paper
-Enhancing Multimodal Video Summarization via Temporal and Semantic Alignment
+Enhancing Multimodal Video Summarization via Temporal and Semantic Alignment.
 
 
 
